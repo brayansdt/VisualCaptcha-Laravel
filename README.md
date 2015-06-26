@@ -14,7 +14,7 @@ http://packalyst.com/packages/package/metrakit/visualcaptcha-laravel
 - Add the package to your composer.json:
 
     ```json
-"metrakit/visualcaptcha-laravel": "dev-master"
+"metrakit/visualcaptcha-laravel": "~v1.0"
     ```
     
 - Use the command : 
